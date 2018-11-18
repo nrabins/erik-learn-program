@@ -1,0 +1,5 @@
+command line (powershell)
+posh git
+git gui
+java in VS Code
+vim not default editor
